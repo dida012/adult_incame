@@ -1,4 +1,4 @@
-age,workclass,fnlogt,education_num,marital_status,relationship,race,sex,capital_gain,capital_loss,hours_per_week,income,education_level,occupation_grouped,native_region,age_group
+age,workclass,fnlwgt,education_num,marital_status,relationship,race,sex,capital_gain,capital_loss,hours_per_week,income,education_level,occupation_grouped,native_region,age_group
 39,government,77516,13,single,single,white,male,2174,0,40,<=50k,tertiary,white collar,north america,36-45
 50,self-emp-not-inc,83311,13,married,male spouse,white,male,0,0,13,<=50k,tertiary,white collar,north america,46-60
 38,private,215646,9,divorced or separated,single,white,male,0,0,40,<=50k,secondary-high school graduate,blue collar,north america,36-45
